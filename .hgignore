@@ -1,0 +1,6 @@
+syntax: glob
+.idea/*
+log/*.log
+tmp/*
+db/*.sqlite3
+ 
